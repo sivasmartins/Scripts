@@ -1,1 +1,5 @@
-Scripts diversos
+### Scripts diversos
+#### Linguagens
+- .bat
+- .php
+- .sh
